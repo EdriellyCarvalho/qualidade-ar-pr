@@ -18,9 +18,13 @@ Os dados utilizados **não representam todos os municípios**, mas apenas aquele
 Este projeto busca responder, entre outras, as seguintes perguntas:
 
 [1] Quais poluentes apresentam maior concentração média nos municípios monitorados?
+
 [2] Como os níveis de poluição variam ao longo do tempo (mensal/anual)?
+
 [3] Existem diferenças significativas na qualidade do ar entre os municípios?
+
 [4] Há períodos do ano com maior incidência de poluentes específicos?
+
 [5] Quais estações registram os piores índices de qualidade do ar?
 
 ## 💡 Principais Insights
@@ -48,7 +52,7 @@ O dashboard interativo pode ser acessado pelo link abaixo:
 
 
 ## 🗂️ Estrutura do Projeto
-
+```text
 qualidade-do-ar/
 │
 ├── data-iema/
