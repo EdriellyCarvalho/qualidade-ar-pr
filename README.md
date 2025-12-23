@@ -40,7 +40,7 @@ Este projeto busca responder, entre outras, as seguintes perguntas:
 Os insights abaixo foram obtidos a partir da análise exploratória e comparativa dos dados, buscando responder às perguntas analíticas propostas inicialmente.
 
 ## 🛠️ Ferramentas e Tecnologias
-- **SQL**: tratamento, modelagem e consultas analíticas  
+- **SQL**: ETL de dados (extração, transformação e modelagem para análise)  
 - **Power BI**: criação do dashboard interativo  
 - **Modelo Estrela**: organização dos dados (tabelas fato e dimensões)  
 - **GitHub**: versionamento e documentação do projeto 
