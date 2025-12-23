@@ -50,6 +50,7 @@ O dashboard interativo pode ser acessado pelo link abaixo:
 
 🔗 **[Acessar Dashboard no Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiZmVhYWI2MmMtMDE4YS00OGQ2LWI2YzQtYTM1NDNhOGRmZmM0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
 
+![Dashboard Qualidade do Ar](pbix/dashboard_qualidade_ar.jpeg)
 
 ## 🗂️ Estrutura do Projeto
 ```text
